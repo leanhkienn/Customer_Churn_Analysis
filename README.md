@@ -51,24 +51,10 @@
 
 ## V. Recommendations
 
-1, If you want to collect a lot of debt (total collected):
-Debt allocation according to loan term to OS_company
-* Long-term: ASA, HMK, NDC
-* Mid-term: ASA, GLX, NDC
-* Short-term: GLX, ASA, HMK
-* Deadloan: NDC, FBI, GLX
-
-2, If you want a high recovery_rate
-Debt allocation by loan term to OS_company Long-term: TDO Mid-term: FBI, NDC
-* Short-term: AMG (super high claim rate 82.43%), FBI, NDC
-* Deadloan: HMK, NDC
-
-3, It is necessary to consider whether the following companies should cooperate in the future because of the inefficient debt collection index: DK, HNA, BFC.
-
-4, NDC is a company that handles debts well: like Deadloan vs other of Product_final.
-
-5, Deadloan accounts have a high payout ratio in the last months of the year 10, 11, 12.
-
-6, December is the month with the highest repayment rate of the year, then it drops to the lowest in February.
-
-7, The bank should expand and promote the Mid-term loan package because it has the highest recovery rate.
+1) Focus on long-term contract customers Since high-value customers on long-term contracts represent for 88% of total revenue from high-value customers, identify customers with no or few referrals on one or two-year contracts as their churn will have the greatest impact on revenue. Acknowledge their problems, take steps to alleviate them, and reward them for their continued loyalty.
+   
+2) Comparative and competitive analysis53% of high-value customers left due to superior products or services provided by competitors. To better position itself in the market, the company should conduct a competitive analysis and benc nark its products and services against those of its competitors. By doing so, the company can anticipate a decrease in churn, which will improve customer retention.
+   
+3) San Diego marketing offers San Diego is responsible for 23% of total revenue lost to high-value customers. The company can improve customer retention by implementing marketing campaigns an promoting Offer A, which had the lowest overall churn rate of 6.7%. To maximize retention, the marketing campaign should also focus on providing more data or better devices.
+   
+4) Listen to all customers and act on their suggestions Dissatisfaction with products or services accounted for 27% of total revenue loss from high-value customers. As a result, the company's products and services should be surveyed, as customer churn is likely caused by a combination of factors. Addressing these issues can lead to lower customer churn and higher levels of satisfaction.
