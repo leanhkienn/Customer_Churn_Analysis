@@ -13,14 +13,19 @@
 * What strategies can the Head of Collection at Bank X implement to improve debt recovery rates and enhance cooperation with its partners?
 
 ## III. Visualization
-### 1. Overview
-![image](https://user-images.githubusercontent.com/101726623/235464138-e572d91d-5ee7-4a76-bf5b-3e8639634920.png)
+### 1. General Customer Overview
+![image](https://github.com/leanhkienn/Customer_Churn_Analysis_PowerBI_Project/assets/116093407/fdef683f-6b56-4312-8e90-65122cc207cc)
 
-### 2. Debt Profile
-![image](https://user-images.githubusercontent.com/101726623/235464239-5d32608f-7288-4703-b785-4c087e46d22a.png)
+### 2. Churn Customers Details
+![image](https://github.com/leanhkienn/Customer_Churn_Analysis_PowerBI_Project/assets/116093407/c8c18708-e1bd-457d-a9a9-c3f3bd531e89)
 
-### 3. (Insights) Effective debt recovery
-![image](https://user-images.githubusercontent.com/101726623/235464301-a9c14a21-8c8d-485b-815b-b8248cae828c.png)
+### 3. Churn by Services
+![image](https://github.com/leanhkienn/Customer_Churn_Analysis_PowerBI_Project/assets/116093407/6fa3d79c-2d5a-4dee-9a48-deda4fcc3577)
+
+### 4. High-value Customers Churned
+![image](https://github.com/leanhkienn/Customer_Churn_Analysis_PowerBI_Project/assets/116093407/0fdf79ab-33f0-4c4f-a374-43ed3de42eb9)
+
+
 
 ## IV. Insights
 1, In terms of total collection
