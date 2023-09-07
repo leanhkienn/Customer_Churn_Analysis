@@ -28,27 +28,30 @@
 
 
 ## IV. Insights
-1, General Customer Overview
+1. General Customer Overview
 * The Average Monthly Charge per Customer is about $64
 * Total Revenue of the Company is $21.4 Million.
 * The Churn Rate is 27% (specifically 1869 customers has churned)
 * The lifetime value of a customer is average of 32 months
 * Customers who were married outweighted the number of customers who are not married. The age group between 26 - 55 obtains the highest Revenue for the company amonther other age groups.
-* Cities with the highest revenue including: 
+* Cities with the highest revenue lies mostly in California --> We can foster and improve services in CAlifornia since most of our high-value customers locate in CAlifornia.
 
-2, In terms of Range_DPD
+2. Churn Customers Details
+* The average life time value of a churn customer is 18 months
+* Most of them (90%) register for Phone Service
+* There are 46% of the customers who gave a referral to another one when using our service (but churned later)
+* The majority of customers churning is because of Competitor or Disatisfactions --> We need to bring in consideration of our services.
+* Although San Diego and Los Angeles has a high revenue, it also has high churn value.
+* Customers has a Month-to-Month contract are mostly likely to churn compare to other types of contract. Likewise for the use of Fiber Optic Internet Type.
+* 
+
+3. Churn by Services we provide
 * Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
 * Long-term: the companies with the highest total collection are: GLX>HMK>ASA>NDC>TCG
 * Short-term: the companies with the highest total collection are: GLX>HMK>ASA>TCG>NDC
 * Deadloan: the companies with the highest total collection are: NDC>FBI>GLX>ASA
 
-2, In terms of Range_DPD
-* Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
-* Long-term: the companies with the highest total collection are: GLX>HMK>ASA>NDC>TCG
-* Short-term: the companies with the highest total collection are: GLX>HMK>ASA>TCG>NDC
-* Deadloan: the companies with the highest total collection are: NDC>FBI>GLX>ASA
-
-3, In terms of Range_DPD
+4. High-value Churned Customers Insights
 * Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
 * Long-term: the companies with the highest total collection are: GLX>HMK>ASA>NDC>TCG
 * Short-term: the companies with the highest total collection are: GLX>HMK>ASA>TCG>NDC
