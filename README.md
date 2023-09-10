@@ -46,10 +46,11 @@
 * 
 
 3. Churn by Services we provide
-* Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
-* Long-term: the companies with the highest total collection are: GLX>HMK>ASA>NDC>TCG
-* Short-term: the companies with the highest total collection are: GLX>HMK>ASA>TCG>NDC
-* Deadloan: the companies with the highest total collection are: NDC>FBI>GLX>ASA
+* Total Revenue Loss from Churns is 3.68 million.
+* By contracts: We can see that Customers with Month-to-Month contract are more likely to churn, but also has a significant stayed percentage.
+* Customers who did not receive any offers are more likely to churn, however, Offer E also has a veery high proportion of churning --> This might be due to dissatisfaction with services.
+* Fiber Optic Internet type has the highest churn rate compared to others.
+* Top Churn Reasons could be mentioned is that Competitor has better devices, made better offer, attitude of support person, etc.
 
 4. High-value Churned Customers Insights
 * Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
