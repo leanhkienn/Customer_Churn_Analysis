@@ -42,8 +42,8 @@
 
 ### 4. High-value Customers Churned
 ![image](https://github.com/leanhkienn/Customer_Churn_Analysis_PowerBI_Project/assets/116093407/0fdf79ab-33f0-4c4f-a374-43ed3de42eb9)
-* Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
-* Long-term: the companies with the highest total collection are: GLX>HMK>ASA>NDC>TCG
+* High-value customers Revenue Loss is approx. 2.37 million
+* San Diego, Los Angeles, Sacramento are the top 3 Cities with high-value customers who churned --> California is one of the most crucial states for our revenue source.
 * Short-term: the companies with the highest total collection are: GLX>HMK>ASA>TCG>NDC
 * Deadloan: the companies with the highest total collection are: NDC>FBI>GLX>ASA
 
