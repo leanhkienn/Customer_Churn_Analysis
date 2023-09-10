@@ -44,8 +44,8 @@
 ![image](https://github.com/leanhkienn/Customer_Churn_Analysis_PowerBI_Project/assets/116093407/0fdf79ab-33f0-4c4f-a374-43ed3de42eb9)
 * High-value customers Revenue Loss is approx. 2.37 million
 * San Diego, Los Angeles, Sacramento are the top 3 Cities with high-value customers who churned --> California is one of the most crucial states for our revenue source.
-* Short-term: the companies with the highest total collection are: GLX>HMK>ASA>TCG>NDC
-* Deadloan: the companies with the highest total collection are: NDC>FBI>GLX>ASA
+* The majority of the high-value customers used Fiber Optic but with no Online security --> tend to churn.
+* People who are married and has high-value are more likely to churn than Single status. 
 
 
 ## IV. Recommendations
